@@ -56,6 +56,7 @@ module.exports = {
         // Add any options here
       },
     },
+    `gatsby-plugin-netlify`, // make sure to put last in the array
 
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
